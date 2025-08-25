@@ -1,0 +1,28 @@
+# Compiled binary
+adventure
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# Build directories (if you later add one)
+build/
+bin/
+dist/
+
+# Logs, temp, cache
+*.log
+*.tmp
+*.swp
+*~
+
+# macOS / Linux junk
+.DS_Store
+
+# VSCode
+.vscode/
+*.code-workspace
