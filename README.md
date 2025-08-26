@@ -30,23 +30,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/yukil-30/the-wish-you-want">
+    <img src="images/wish-you-want.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">The Wish You Want</h3>
 
   <p align="center">
-    project_description
+    Text-based C++ adventure game combining story and mini-games.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/yukil-30/the-wish-you-want"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/yukil-30/the-wish-you-want">View Demo</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/yukil-30/the-wish-you-want/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/yukil-30/the-wish-you-want/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -182,19 +182,21 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/yukil-30/the-wish-you-want.svg?style=for-the-badge
+[contributors-url]: https://github.com/yukil-30/the-wish-you-want/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/yukil-30/the-wish-you-want.svg?style=for-the-badge
+[forks-url]: https://github.com/yukil-30/the-wish-you-want/network/members
+[stars-shield]: https://img.shields.io/github/stars/yukil-30/the-wish-you-want.svg?style=for-the-badge
+[stars-url]: https://github.com/yukil-30/the-wish-you-want/stargazers
+[issues-shield]: https://img.shields.io/github/issues/yukil-30/the-wish-you-want.svg?style=for-the-badge
+[issues-url]: https://github.com/yukil-30/the-wish-you-want/issues
+[license-shield]: https://img.shields.io/github/license/yukil-30/the-wish-you-want.svg?style=for-the-badge
+[license-url]: https://github.com/yukil-30/the-wish-you-want/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/yuki-li123
 [product-screenshot]: images/screenshot.png
+[C++]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[c++-url]: https://isocpp.org/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
