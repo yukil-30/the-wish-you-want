@@ -107,14 +107,12 @@ Wish You Want is a C++ text-based adventure game that combines storytelling with
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 You’ll need a **C++ compiler** (e.g., `g++` or `clang++`) installed on your system.
 
 * Check g++ version
+  
   ```sh
   g++ --version
   ```
@@ -127,7 +125,8 @@ You’ll need a **C++ compiler** (e.g., `g++` or `clang++`) installed on your sy
    git clone https://github.com/yukil-30/the-wish-you-want.git
    cd the-wish-you-want
    ```
-2. Compile the project:
+2. Compile the project: 
+
    **Linux/macOS**
    ```sh
    g++ src/*.cpp -Iinclude -o adventure
@@ -136,7 +135,8 @@ You’ll need a **C++ compiler** (e.g., `g++` or `clang++`) installed on your sy
    ```sh
    g++ src/*.cpp -Iinclude -o adventure.exe
    ```
-3. Run the executable:
+3. Run the executable: 
+
    **Linus/macOS**
    ```sh
    ./adventure
